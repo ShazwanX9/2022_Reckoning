@@ -6,15 +6,15 @@ in which every non-negative integer can be
 represented in exactly one way using a 
 finite string of digits.
 
-First six Bijective:
-    0 -> ''
-    1 -> '1'
-    2 -> '2'
-    3 -> '11'
-    4 -> '12'
-    5 -> '21'
-    6 -> '22'
-    .... ...
+	First six Bijective:
+	    0 -> ''
+	    1 -> '1'
+	    2 -> '2'
+	    3 -> '11'
+	    4 -> '12'
+	    5 -> '21'
+	    6 -> '22'
+	    .... ...
 ___
 
     Required:
